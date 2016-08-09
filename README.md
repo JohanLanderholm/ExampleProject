@@ -1,0 +1,2 @@
+# ExampleProject
+Example GIT project
