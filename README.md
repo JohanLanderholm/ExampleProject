@@ -1,2 +1,0 @@
-# ExampleProject
-Example GIT project
